@@ -1,12 +1,12 @@
-# # Retail Sales Analysis Dashboard | Power BI
+Retail Sales Analysis Dashboard | Power BI
 
-## Project Overview
+ Project Overview
 
 This project analyzes retail transaction data to evaluate sales performance, identify category-level trends, and communicate business insights through an interactive Power BI dashboard.
 
 The project demonstrates data validation, DAX measure development, KPI tracking, data visualization, and business-focused analysis.
 
-## Objectives
+ Objectives
 
 - Clean and validate retail transaction data.
 - Calculate key performance indicators (KPIs).
@@ -15,14 +15,14 @@ The project demonstrates data validation, DAX measure development, KPI tracking,
 - Build an interactive Power BI dashboard with slicers.
 - Develop actionable recommendations based on the findings.
 
-## Tools & Technologies
+Tools & Technologies
 
 - **Power BI Desktop:** Dashboard development and data visualization
 - **DAX:** KPI calculations and time-based analysis
 - **Power Query:** Data inspection and transformation
 - **Microsoft Excel:** Data validation and preliminary analysis
 
-## Key Performance Indicators
+Key Performance Indicators
 
 - Total Revenue
 - Total Transactions
@@ -32,7 +32,7 @@ The project demonstrates data validation, DAX measure development, KPI tracking,
 - Revenue Share by Product Category
 - Average Selling Price
 
-## Dashboard Features
+ Dashboard Features
 
 - KPI cards summarizing sales performance
 - Monthly revenue trend analysis
@@ -40,11 +40,11 @@ The project demonstrates data validation, DAX measure development, KPI tracking,
 - Revenue analysis by gender
 - Interactive slicers for year, category, and gender
 
-## Dataset
+ Dataset
 
 The dataset contains retail transaction information, including transaction dates, customer demographics, product categories, quantities, unit prices, and total transaction amounts.
 
-## Preliminary Findings
+ Preliminary Findings
 
 - Total recorded revenue: $456,000
 - Total transactions: 1,000
@@ -55,11 +55,11 @@ Electronics generated the highest revenue among the three product categories, fo
 
 January 2024 contains only a partial reporting period and should be interpreted accordingly.
 
-## Limitations
+ Limitations
 
 The dataset does not include product-level identifiers, geographic regions, or cost information. Therefore, the analysis does not establish individual product performance, regional performance, or actual profitability.
 
-## Business Recommendations
+ Business Recommendations
 
 1. Investigate monthly revenue fluctuations to identify potential demand patterns.
 2. Evaluate category-level performance when planning promotional campaigns.
@@ -67,13 +67,13 @@ The dataset does not include product-level identifiers, geographic regions, or c
 4. Compare performance across customer segments to identify potential opportunities.
 5. Collect product cost and regional sales data to support more comprehensive profitability and geographic analysis.
 
-## Project Deliverables
+ Project Deliverables
 
 - Power BI dashboard (`.pbix`)
 - Dataset, where redistribution is permitted
 - Dashboard screenshots
 
-## Author
+ Author
 
 Created as part of a data analytics portfolio project.
 
